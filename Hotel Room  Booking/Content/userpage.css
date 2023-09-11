@@ -1,0 +1,53 @@
+﻿
+.auto-style6 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    color: white;
+    width: 200px;
+    height: 33px;
+    font-size: 23px;
+    background-color: limegreen;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 12px 0 18px 78px;
+}
+
+.auto-style7 {
+    font-size: 23px;
+    color: white;
+    left: 2%;
+    top: 71px;
+    position: absolute;
+    width: 580px;
+    height: 480px;
+}
+
+.auto-style14 {
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.bookingstyle {
+    top: 80px;
+    position: absolute;
+    left: 33%;
+    top: 80px;
+    width: 600px;
+    height: 560px;
+    top: 53px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.txtbox {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    width: 160px;
+    color: #fff;
+    font-size: 16px;
+}

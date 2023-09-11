@@ -1,0 +1,68 @@
+﻿.auto-style1 {
+    color: orange;
+}
+
+.auto-style2 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    color: #eee;
+    font-size: 16px;
+    background-color: limegreen;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 12px 0 18px 11px;
+}
+
+.auto-style3 {
+    position: relative;
+    font-size: large;
+    font-family: sans-serif;
+    width: 380px;
+    height: 400px;
+    left: -94px;
+    top: 10px;
+}
+
+.auto-style5 {
+    font-size: medium;
+}
+
+h2 {
+    margin: 0;
+    padding: 0 0 26px;
+    color: #ff8c00;
+    text-align: center;
+}
+
+.auto-style6 {
+    width: 130px;
+    height: 131px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: absolute;
+    top: -75px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.textbox {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.loginbox {
+    position: relative;
+    margin: 10% 0 0 35%;
+    width: 500px;
+    height: 480px;
+    top: 6px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+}

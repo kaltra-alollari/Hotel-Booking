@@ -1,0 +1,45 @@
+﻿.style1 {
+    color: orange;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    left: -94px;
+    top: 0px;
+}
+
+
+.style3 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    outline: none;
+    color: #eee;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 12px 0 18px 11px;
+}
+
+.txtbox {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.signupBox {
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 460px;
+    width: 480px;
+    height: 600px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+}
